@@ -17,11 +17,11 @@
 			for (i = 0; i < arr.length; i++) {
 
 				out += "<div><h5 class=\"header\">"
-						+ arr[i].Title
+						+ arr[i].ProjectTitle
 						+ "</h5><h6>"
-						+ arr[i].Date
+						+ arr[i].SoftwareToolsTechnology
 						+ "</h6><div class=\"card horizontal\"><div class=\"card-stacked\"><div class=\"card-content\">"
-						+ decodeURI(arr[i].BlogEncoded)
+						+ decodeURI(arr[i].ProjectDescription)
 						+ "</div></div></div></div>";
 			}
 			document.getElementById("projectblock").innerHTML = out;
