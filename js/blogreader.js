@@ -15,11 +15,8 @@
 			var out = "";
 			for (i = 0; i < arr.length; i++) {
 
-				out += "<div><h5 class=\"header\">"
-						+ arr[i].Title
-						+ "</h5><h6>"
-						+ arr[i].Date
-						+ "</h6><div class=\"card horizontal\"><div class=\"card-stacked\"><div class=\"card-content\">"
+				out += "<div class=\"card horizontal\"><div class=\"card-stacked\"><div class=\"card-content\">"
+				    +"<div><h5 class=\"header\">"+ arr[i].Title+ "</h5><h6>"+ arr[i].Date+ "</h6><br>"
 						+ decodeURI(arr[i].BlogEncoded)
 						+ "</div></div></div></div>";
 			}
