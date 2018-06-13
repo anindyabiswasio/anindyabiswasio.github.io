@@ -19,10 +19,10 @@
 				"<div><h5 class=\"header\">"+ arr[i].ProjectTitle+ "</h5><br>"+
 				"<h6><b> Tools Used : </b>"+ arr[i].SoftwareToolsTechnology+ "</h6><br>"+
 				"<h6><b> Problem : </b>"+ arr[i].Problem+ "</h6><br>"+
-				"<b>Description</b><br>"
-						+ decodeURI(arr[i].ProjectDescription)+"<br>"+
-						+ "<i>Organization : "+arr[i].Organization+"</i>"
-						+ "</div></div></div></div>";
+				"<b>Description</b><br>"+
+						 decodeURI(arr[i].ProjectDescription)+"<br>"+
+						 "<i>Organization : "+arr[i].Organization+"</i>"+
+						 "</div></div></div></div>";
 			}
 			document.getElementById("projectblock").innerHTML = out;
 		}
