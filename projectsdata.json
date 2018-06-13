@@ -1,0 +1,7 @@
+[{
+	"ProjectTitle": "Appexe Video Streaming Engine",
+	"SoftwareToolsTechnology": "UML (Design Tool), AWS S3, AWS Lambda Functions, Amazon Elastic Transcoder",
+	"Problem": "JBAT one of our business partners wanted a YouTube-like Feature in Appexe",
+	"ProjectDescription": "<p>The main challenge was either to use ffmpeg on an instance and then upload converted videos on S3 bucket or use an existing mechanism in AWS to do the conversion for us. So, we decided to go with elastic transcoder instead to do all our transcoding. To do this we would first upload a video from a Runtime (Android, iOS, Windows, Mobile Web) upload such images to s3. On S3 side we would trigger a Lambda function and that would then create a Job pass it to Elastic transcoder. The final converted videos would then be stored in separate buckers of 360p, 720p, 1080p. In case there is a notification of failure to transcode from Elastic Transcoder we would trigger another Lambda to update video database of failures.</p>",
+	"Organization": "Mobilous Inc."
+}]
