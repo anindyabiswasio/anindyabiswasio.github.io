@@ -21,7 +21,7 @@
 				"<h6><b> Problem : </b>"+ arr[i].Problem+ "</h6><br>"+
 				"<b>Description</b><br>"+
 						 decodeURI(arr[i].ProjectDescription)+"<br>"+
-						 "<i>Organization : "+arr[i].Organization+"</i>"+
+						 "<p align="right"><i>Organization : "+arr[i].Organization+"</i></p>"+
 						 "</div></div></div></div>";
 			}
 			document.getElementById("projectblock").innerHTML = out;
