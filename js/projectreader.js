@@ -3,14 +3,13 @@
 
 		xmlhttp.onreadystatechange = function() {
 			if (this.readyState == 4 && this.status == 200) {
-				myFunctionBlogs(this.responseText);
 				myFunctionProjects(this.responseText);
 			}
 		}
 		xmlhttp.open("GET", blogurl, true);
 		xmlhttp.send();
 
-		function myFunctionBlogs(response) {
+		function myFunctionProjects(response) {
 			var arr = JSON.parse(response);
 			var i;
 			var out = "";
