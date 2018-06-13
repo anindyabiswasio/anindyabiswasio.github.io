@@ -40,10 +40,14 @@
 	<div class="section no-pad-bot" id="index-banner">
 		<div class="container">
 			<br> <br>
-			<h4 class="header center blue-text">TechnoLazy Blogs<i>(Worst Name for a Blog)</i></h4><br><br>
-<div class="row left">
-           <div id="blogblock"></div>
-</div>
+			<h4 class="header center blue-text">
+				TechnoLazy Blogs<i>(Worst Name for a Blog)</i>
+			</h4>
+			<br>
+			<br>
+			<div class="row left">
+				<div id="blogblock"></div>
+			</div>
 		</div>
 	</div>
 
@@ -57,24 +61,30 @@
 	<script src="js/init.js" type="text/javascript"></script>
 	<script type="text/javascript">
 		var xmlhttp = new XMLHttpRequest();
-		var url = "blogdata.json";
+		var blogurl = "blogdata.json";
 
 		xmlhttp.onreadystatechange = function() {
 			if (this.readyState == 4 && this.status == 200) {
-				myFunction(this.responseText);
+				myFunctionBlog(this.responseText);
 			}
 		}
-		xmlhttp.open("GET", url, true);
+		xmlhttp.open("GET", blogurl, true);
 		xmlhttp.send();
 
-		function myFunction(response) {
+		function myFunctionBlog(response) {
 			var arr = JSON.parse(response);
 			var i;
-			var out="";
+			var out = "";
 			for (i = 0; i < arr.length; i++) {
-				
-				out += "<div><h5 class=\"header\">" + arr[i].Title + "</h5><h6>" + arr[i].Date	+ "</h6><div class=\"card horizontal\"><div class=\"card-stacked\"><div class=\"card-content\">" + decodeURI(arr[i].BlogEncoded) + "</div></div></div></div>";
-						}
+
+				out += "<div><h5 class=\"header\">"
+						+ arr[i].Title
+						+ "</h5><h6>"
+						+ arr[i].Date
+						+ "</h6><div class=\"card horizontal\"><div class=\"card-stacked\"><div class=\"card-content\">"
+						+ decodeURI(arr[i].BlogEncoded)
+						+ "</div></div></div></div>";
+			}
 			document.getElementById("blogblock").innerHTML = out;
 		}
 	</script>
