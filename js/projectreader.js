@@ -15,12 +15,13 @@
 			var out = "";
 			for (i = 0; i < arr.length; i++) {
 
-				out += "<div><h5 class=\"header\">"
-						+ arr[i].ProjectTitle
-						+ "</h5><h6>"
-						+ arr[i].SoftwareToolsTechnology
-						+ "</h6><div class=\"card horizontal\"><div class=\"card-stacked\"><div class=\"card-content\">"
-						+ decodeURI(arr[i].ProjectDescription)
+				out += "<div class=\"card horizontal\"><div class=\"card-stacked\"><div class=\"card-content\">"+
+				"<div><h5 class=\"header\">"+ arr[i].ProjectTitle+ "</h5><br>"+
+				"<h6><b> Tools Used : </b>"+ arr[i].SoftwareToolsTechnology+ "</h6><br>"+
+				"<h6><b> Problem : </b>"+ arr[i].Problem+ "</h6><br>"+
+				"<b>Description<b><br>"
+						+ decodeURI(arr[i].ProjectDescription)+"<br>"+
+						+ "<b><i>Organization : </i></b><i>"+arr[i].Organization+"</i>"
 						+ "</div></div></div></div>";
 			}
 			document.getElementById("projectblock").innerHTML = out;
