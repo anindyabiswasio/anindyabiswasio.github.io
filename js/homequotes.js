@@ -21,6 +21,6 @@
 			var arr = JSON.parse(response);
 			var out = "";
 			var rand = getRandomInt(0,arr.length)
-			out += "<p class="light">"+arr[rand].quote+"<br><b>"+arr[rand].author+"</b></p>";
+			out += "<p class=\"light\">"+arr[rand].quote+"<br><b>"+arr[rand].author+"</b></p>";
 			document.getElementById("quoteblock").innerHTML = out;
 		}
