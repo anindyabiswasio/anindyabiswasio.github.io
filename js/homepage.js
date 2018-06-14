@@ -1,12 +1,14 @@
-		var xmlhttp = new XMLHttpRequest();
-		var blogurl = "quotedata.json";
+		var quoteurlhttp = new XMLHttpRequest();
+		var quoteurl = "quotedata.json";
+		var projecturl = "projectsdata.json";
+  	var blogurl = "blogdata.json";
 
-		xmlhttp.onreadystatechange = function() {
+		quoteurlhttp.onreadystatechange = function() {
 			if (this.readyState == 4 && this.status == 200) {
 				myFunctionQuotes(this.responseText);
 			}
 		}
-		xmlhttp.open("GET", blogurl, true);
+		xmlhttp.open("GET", quoteurl, true);
 		xmlhttp.send();
 
 		/**
