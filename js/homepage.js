@@ -8,8 +8,8 @@
 				myFunctionQuotes(this.responseText);
 			}
 		}
-		xmlhttp.open("GET", quoteurl, true);
-		xmlhttp.send();
+		quoteurlhttp.open("GET", quoteurl, true);
+		quoteurlhttp.send();
 
 		/**
 		 * Returns a random integer between min (inclusive) and max (inclusive)
