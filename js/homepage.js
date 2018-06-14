@@ -49,8 +49,9 @@
 		function myFunctionProjectsOne(response) {
 			var arr = JSON.parse(response);
 			var out = "";
-			var rand = getRandomInt(0,arr.length)
-			out += "<p class=\"light\"><b>"+arr[0].ProjectTitle+"</b><br>"+(arr[0].ProjectDescription).substring(1, 60)+"...</p>";
+			var ProjectTitle = arr[0].ProjectTitle;
+			var ProjectDescription = arr[0].ProjectDescription;
+			out += "<p class=\"light\"><b>"+arr[0].ProjectTitle+"</b><br>"+ProjectDescription.substring(1, 300)+"...</p>";
 			document.getElementById("projectsblock").innerHTML = out;
 		}
 
