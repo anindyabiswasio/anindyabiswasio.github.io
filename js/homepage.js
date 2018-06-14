@@ -51,7 +51,7 @@
 			var out = "";
 			var ProjectTitle = arr[0].ProjectTitle;
 			var ProjectDescription = arr[0].ProjectDescription;
-			out += "<p class=\"light\"><b>"+arr[0].ProjectTitle+"</b><br>"+ProjectDescription.substring(0, 400)+"</p>...</p>";
+			out += "<p class=\"light\"><b>"+arr[0].ProjectTitle+"</b><br>"+ProjectDescription.substring(0, 400)+"...</p></p>";
 			document.getElementById("projectsblock").innerHTML = out;
 		}
 
