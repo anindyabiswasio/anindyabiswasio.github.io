@@ -50,7 +50,7 @@
 			var arr = JSON.parse(response);
 			var out = "";
 			var rand = getRandomInt(0,arr.length)
-			out += "<p class=\"light\"><b>"+arr[0].ProjectTitle+"</b><br>"+arr[0].ProjectDescription.substring(1, 60)+"...</p>";
+			out += "<p class=\"light\"><b>"+arr[0].ProjectTitle+"</b><br>"+(arr[0].ProjectDescription).substring(1, 60)+"...</p>";
 			document.getElementById("projectsblock").innerHTML = out;
 		}
 
