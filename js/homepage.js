@@ -61,6 +61,10 @@
 		function myFunctionBlogsOne(response) {
 			var arr = JSON.parse(response);
 			var out = "";
-			out += "<p class=\"light\">"+arr[0].quote+"<br><b>"+arr[0].author+"</b></p>";
+			var BlogEncoded = arr[0].BlogEncoded;
+			ProjectDescription = BlogEncoded.replace("<p>","");
+			ProjectDescription = BlogEncoded.replace("</p>","");
+			out += "<p class=\"light\"><h6>"+arr[0].Title+"</h6><br>"+BlogEncoded.substring(0, 400)+"...</p>"+
+			"<a href=project.html#"+ arr[0].anchor+">More...</a>";
 			document.getElementById("blogblock").innerHTML = out;
 		}
