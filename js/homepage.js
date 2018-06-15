@@ -53,7 +53,8 @@
 			var ProjectDescription = arr[0].ProjectDescription;
 			ProjectDescription = ProjectDescription.replace("<p>","");
 			ProjectDescription = ProjectDescription.replace("</p>","");
-			out += "<p class=\"light\"><h6>"+arr[0].ProjectTitle+"</h6><br>"+ProjectDescription.substring(0, 400)+"...</p>";
+			out += "<p class=\"light\"><h6>"+arr[0].ProjectTitle+"</h6><br>"+ProjectDescription.substring(0, 400)+"...</p>"+
+			"<a href=project.html#"+ arr[0].anchor+">More...</a>";
 			document.getElementById("projectsblock").innerHTML = out;
 		}
 
