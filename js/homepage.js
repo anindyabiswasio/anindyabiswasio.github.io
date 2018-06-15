@@ -65,6 +65,6 @@
 			ProjectDescription = BlogEncoded.replace("<p>","");
 			ProjectDescription = BlogEncoded.replace("</p>","");
 			out += "<p class=\"light\"><h6>"+arr[0].Title+"</h6><br>"+BlogEncoded.substring(0, 400)+"...</p>"+
-			"<a href=project.html#"+ arr[0].anchor+">More...</a>";
+			"<a href=blog.html#"+ arr[0].anchor+">More...</a>";
 			document.getElementById("blogblock").innerHTML = out;
 		}
