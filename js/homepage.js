@@ -42,7 +42,7 @@
 			var arr = JSON.parse(response);
 			var out = "";
 			var rand = getRandomInt(0,arr.length)
-			out += "<p class=\"light\">"+arr[rand].quote+"<br><b>"+arr[rand].author+"</b></p>";
+			out += "<br><br><p class=\"light\">"+arr[rand].quote+"<br><b>"+arr[rand].author+"</b></p>";
 			document.getElementById("quoteblock").innerHTML = out;
 		}
 
@@ -53,7 +53,7 @@
 			var ProjectDescription = arr[0].ProjectDescription;
 			ProjectDescription = ProjectDescription.replace("<p>","");
 			ProjectDescription = ProjectDescription.replace("</p>","");
-			out += "<p class=\"light\"><h6>"+arr[0].ProjectTitle+"</h6><br>"+ProjectDescription.substring(0, 400)+"...</p>"+
+			out += "<br><br><h6>"+arr[0].ProjectTitle+"</h6><br><p class=\"light\">"+ProjectDescription.substring(0, 400)+"...</p>"+
 			"<a href=project.html#"+ arr[0].anchor+">More...</a>";
 			document.getElementById("projectsblock").innerHTML = out;
 		}
@@ -64,7 +64,7 @@
 			var BlogEncoded = arr[0].BlogEncoded;
 			ProjectDescription = BlogEncoded.replace("<p>","");
 			ProjectDescription = BlogEncoded.replace("</p>","");
-			out += "<p class=\"light\"><h6>"+arr[0].Title+"</h6><br>"+BlogEncoded.substring(0, 400)+"...</p>"+
+			out += "<br><br><h6>"+arr[0].Title+"</h6><br><p class=\"light\">"+BlogEncoded.substring(0, 400)+"...</p>"+
 			"<a href=blog.html#"+ arr[0].anchor+">More...</a>";
 			document.getElementById("blogblock").innerHTML = out;
 		}
