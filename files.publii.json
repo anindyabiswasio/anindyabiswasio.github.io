@@ -112,22 +112,32 @@
     {
         "path": "/authors/anindya-biswas/index.html",
         "type": "file",
-        "md5": "2dfadaa311380356bf94138916b775cf"
+        "md5": "1189493cfa7a247645884a7c0f4b1af8"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "e52db61d3a8eaa95c475700e14b6afbc"
+        "md5": "a9285d86e4536946fb9f6d1731e4f4ae"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "add3270e7ae092b9ba957a8acf72143a"
+        "md5": "98237e95f3dfd48bd19d22834a95cb21"
+    },
+    {
+        "path": "general",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/general/index.html",
+        "type": "file",
+        "md5": "c4d9c7c698c26515b36f4b60f214ce2a"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "7e6a73133ee00d485d5baa7db1aaf820"
+        "md5": "4adc5558c414ed931599647c2a592ce3"
     },
     {
         "path": "media",
@@ -200,9 +210,19 @@
         "md5": "4de8e96e2c042e6995b84545241d3380"
     },
     {
+        "path": "/media/website/me.png",
+        "type": "file",
+        "md5": "4de8e96e2c042e6995b84545241d3380"
+    },
+    {
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/website/responsive/me-2xl.png",
+        "type": "file",
+        "md5": "2ef1f812dff995dad748ac4dc474834e"
     },
     {
         "path": "/media/website/responsive/me-4-2xl.png",
@@ -235,6 +255,31 @@
         "md5": "4e4ce37b85c8456cdc3772e1118df0fb"
     },
     {
+        "path": "/media/website/responsive/me-lg.png",
+        "type": "file",
+        "md5": "2ef1f812dff995dad748ac4dc474834e"
+    },
+    {
+        "path": "/media/website/responsive/me-md.png",
+        "type": "file",
+        "md5": "2ef1f812dff995dad748ac4dc474834e"
+    },
+    {
+        "path": "/media/website/responsive/me-sm.png",
+        "type": "file",
+        "md5": "2ef1f812dff995dad748ac4dc474834e"
+    },
+    {
+        "path": "/media/website/responsive/me-xl.png",
+        "type": "file",
+        "md5": "2ef1f812dff995dad748ac4dc474834e"
+    },
+    {
+        "path": "/media/website/responsive/me-xs.png",
+        "type": "file",
+        "md5": "4e4ce37b85c8456cdc3772e1118df0fb"
+    },
+    {
         "path": "search.html",
         "type": "file",
         "md5": "b1c9d6bb7d89e11bc5a8ebc9e87284c5"
@@ -242,11 +287,16 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "718c8d7933b235791f2e74d9b8ffb9e5"
+        "md5": "3a70026acd03249c85f32255ed0a549d"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "why-start-a-blog-now.html",
+        "type": "file",
+        "md5": "8ff6fa0aa5b64159329012afeefb2b29"
     }
 ]
