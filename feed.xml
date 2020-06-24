@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>anindyabiswas.io</title>
+    <link href="http://anindyabiswas.io/feed.xml" rel="self" />
+    <link href="http://anindyabiswas.io" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>Anindya Biswas</name>
+    </author>
+    <id>http://anindyabiswas.io</id>
+
+</feed>
