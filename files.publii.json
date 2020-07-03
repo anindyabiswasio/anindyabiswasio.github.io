@@ -2,12 +2,82 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "79aef00dc37698db9ac5eb5d092ac1ff"
+        "md5": "c6b4dbfb4f0c9a7771b8c10195d12732"
     },
     {
         "path": "about-me.html",
         "type": "file",
-        "md5": "b55f03f0d0d87d271327c02a35187598"
+        "md5": "d370b3acd1d03c59f16f502ce8964081"
+    },
+    {
+        "path": "amp",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/about-me.html",
+        "type": "file",
+        "md5": "26c2312cec2cdaa47617962472e3d4f0"
+    },
+    {
+        "path": "amp/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/authors/anindya-biswas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/anindya-biswas/index.html",
+        "type": "file",
+        "md5": "f70babeec7ad31ce97f505725209cc97"
+    },
+    {
+        "path": "/amp/aws-ubuntu-instance-to-azure-or-vmware-migration.html",
+        "type": "file",
+        "md5": "68ebbef85d1112c425f674d549e17359"
+    },
+    {
+        "path": "amp/cloud-computing",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/cloud-computing/index.html",
+        "type": "file",
+        "md5": "1c9f3cc8e46736bf1bf53000cefaaf95"
+    },
+    {
+        "path": "amp/general-thoughts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/general-thoughts/index.html",
+        "type": "file",
+        "md5": "bd91cbb3e022f24e856b1aa7c8ec4130"
+    },
+    {
+        "path": "/amp/index.html",
+        "type": "file",
+        "md5": "d70e7ede2f14502d58cbb66c6e7cc7b4"
+    },
+    {
+        "path": "amp/linux",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/linux/index.html",
+        "type": "file",
+        "md5": "cfbf766b0ff4116dc9b2691c97cfe762"
+    },
+    {
+        "path": "/amp/why-start-a-blog-now.html",
+        "type": "file",
+        "md5": "844228cef9c93588e69c575eecd6c307"
     },
     {
         "path": "assets",
@@ -112,12 +182,12 @@
     {
         "path": "/authors/anindya-biswas/index.html",
         "type": "file",
-        "md5": "c064ec927dd34181aa0212879ef6e13d"
+        "md5": "6f724ebfa0cc196d64110976ca9aa1c4"
     },
     {
         "path": "aws-ubuntu-instance-to-azure-or-vmware-migration.html",
         "type": "file",
-        "md5": "8578bdff594471edc7b9a606f6c26b75"
+        "md5": "994353dcb1c1cfbc9073d1a11d5b8ef2"
     },
     {
         "path": "cloud-computing",
@@ -127,17 +197,17 @@
     {
         "path": "/cloud-computing/index.html",
         "type": "file",
-        "md5": "49fe42e4eb285eeba7fe95dbb50a0cb7"
+        "md5": "a69a1d34e5f4b8a5faa2db68fee68cbf"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "988f7a68ff6385ccbe321434a4e24ec4"
+        "md5": "fec640a3bb7b9a1ccebfc8b2648c6964"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "408c9267c207e11b19ea955794d97b5e"
+        "md5": "aa7096d527581ab501d84d440ee981ec"
     },
     {
         "path": "general-thoughts",
@@ -147,12 +217,12 @@
     {
         "path": "/general-thoughts/index.html",
         "type": "file",
-        "md5": "27af1568bac0323bc4d5408a021c6cf5"
+        "md5": "69bc98d214defb4c068c54f1aa7b231b"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "47e49a225ebda478fc75a50a39f89879"
+        "md5": "1af67e6fce6cff8dda852142b688e32e"
     },
     {
         "path": "linux",
@@ -162,7 +232,7 @@
     {
         "path": "/linux/index.html",
         "type": "file",
-        "md5": "42aa01e3d8eb7944aa65279765e35a7d"
+        "md5": "760727685a99654329b32204eef709ff"
     },
     {
         "path": "media",
@@ -397,12 +467,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "b3542e39479038b613bbae7815f42f9c"
+        "md5": "e2912e799d9fb636ed7dc7ee421cf7de"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "7ee6847b948d856c5d96c120e5932209"
+        "md5": "80bbbed878b197336312a3fe354252c0"
     },
     {
         "path": "sitemap.xsl",
@@ -412,6 +482,6 @@
     {
         "path": "why-start-a-blog-now.html",
         "type": "file",
-        "md5": "e94dbf883710323e0816387178f79d45"
+        "md5": "184aa4a090cca311bb9838dae78dbfd7"
     }
 ]
