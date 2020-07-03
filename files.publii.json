@@ -112,12 +112,12 @@
     {
         "path": "/authors/anindya-biswas/index.html",
         "type": "file",
-        "md5": "f1691fb718e28a4471c39b3a9bc93207"
+        "md5": "c064ec927dd34181aa0212879ef6e13d"
     },
     {
         "path": "aws-ubuntu-instance-to-azure-or-vmware-migration.html",
         "type": "file",
-        "md5": "80c43480c4c9cea78dcfe8050279efb1"
+        "md5": "8578bdff594471edc7b9a606f6c26b75"
     },
     {
         "path": "cloud-computing",
@@ -132,12 +132,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "2c63aaa83f11ee2151034df58ff1f8ae"
+        "md5": "988f7a68ff6385ccbe321434a4e24ec4"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "40ceb72d893e09eee826d9c160de491b"
+        "md5": "408c9267c207e11b19ea955794d97b5e"
     },
     {
         "path": "general-thoughts",
@@ -147,12 +147,12 @@
     {
         "path": "/general-thoughts/index.html",
         "type": "file",
-        "md5": "76a1c0933067c85a661d1f9ee9494f41"
+        "md5": "27af1568bac0323bc4d5408a021c6cf5"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e8c781ed5c67d7fe9af389fe33ef7bfe"
+        "md5": "47e49a225ebda478fc75a50a39f89879"
     },
     {
         "path": "linux",
@@ -223,6 +223,51 @@
         "path": "/media/posts/5/responsive/me-xs.png",
         "type": "file",
         "md5": "4994202bd4856082e51e8522d8ef87fc"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/splash0-2xl.jpg",
+        "type": "file",
+        "md5": "7bb495bf6fc9c5ad59cb17b8927676d6"
+    },
+    {
+        "path": "/media/posts/6/responsive/splash0-lg.jpg",
+        "type": "file",
+        "md5": "9083e68df3193b865ec1d6827f5e7adb"
+    },
+    {
+        "path": "/media/posts/6/responsive/splash0-md.jpg",
+        "type": "file",
+        "md5": "20ab2b3d1f9910b1c934315d685cf926"
+    },
+    {
+        "path": "/media/posts/6/responsive/splash0-sm.jpg",
+        "type": "file",
+        "md5": "5dd99e1c53f3da333b25702701017614"
+    },
+    {
+        "path": "/media/posts/6/responsive/splash0-xl.jpg",
+        "type": "file",
+        "md5": "7fa08c99ed012abd7e3011499c1644d5"
+    },
+    {
+        "path": "/media/posts/6/responsive/splash0-xs.jpg",
+        "type": "file",
+        "md5": "79de14f5ebc1ea043ca59c2bc043a170"
+    },
+    {
+        "path": "/media/posts/6/splash0.jpg",
+        "type": "file",
+        "md5": "e07875e6b8624b55689e16d6d2a4a96b"
     },
     {
         "path": "media/posts/9",
@@ -357,7 +402,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "ce6822f33a86e7fee4e5fa31d35e3b02"
+        "md5": "7ee6847b948d856c5d96c120e5932209"
     },
     {
         "path": "sitemap.xsl",
@@ -367,6 +412,6 @@
     {
         "path": "why-start-a-blog-now.html",
         "type": "file",
-        "md5": "b2cd1bd4a32c51de61dfb6f52e193000"
+        "md5": "e94dbf883710323e0816387178f79d45"
     }
 ]

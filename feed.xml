@@ -19,7 +19,7 @@
             <category term="Linux"/>
             <category term="Cloud Computing"/>
 
-        <updated>2020-07-03T20:26:53+05:30</updated>
+        <updated>2020-07-03T20:34:17+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="http://anindyabiswas.io/media/posts/9/splash1.jpg" alt="" />
@@ -191,7 +191,7 @@
         </content>
     </entry>
     <entry>
-        <title>Why start a blog now?</title>
+        <title>Hello World</title>
         <author>
             <name>Anindya Biswas</name>
         </author>
@@ -199,14 +199,16 @@
         <id>http://anindyabiswas.io/why-start-a-blog-now.html</id>
             <category term="General Thoughts"/>
 
-        <updated>2020-07-03T20:26:53+05:30</updated>
+        <updated>2020-07-03T20:34:17+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="http://anindyabiswas.io/media/posts/6/splash0.jpg" alt="" />
                     I used to write when I was a bit younger small poems to girls I used to like or something about what made me feel sad or happy. Over the years the habit of writing somehow went away. It was a job it was something&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="http://anindyabiswas.io/media/posts/6/splash0.jpg" alt="" />
                 <div class="" data-block="true" data-editor="9nbpd" data-offset-key="6kb6e-0-0">
 <div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="6kb6e-0-0"><span data-offset-key="6kb6e-0-0">I used to write when I was a bit younger small poems to girls I used to like or something about what made me feel sad or happy. Over the years the habit of writing somehow went away. It was a job it was something else but Yeah I stopped Writing. </span></div>
 </div>
