@@ -117,7 +117,7 @@
     {
         "path": "aws-ubuntu-instance-to-azure-or-vmware-migration.html",
         "type": "file",
-        "md5": "6525b16c4c07e138a3ff3e6b611f9a24"
+        "md5": "80c43480c4c9cea78dcfe8050279efb1"
     },
     {
         "path": "cloud-computing",
@@ -132,12 +132,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8fba98fe75c53f8e62c6754323d4808e"
+        "md5": "2c63aaa83f11ee2151034df58ff1f8ae"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "4c74164409e570d7c94b345a4cf80afa"
+        "md5": "40ceb72d893e09eee826d9c160de491b"
     },
     {
         "path": "general-thoughts",
@@ -152,7 +152,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ab1edde3c67aa6e1b11e5f1e66546891"
+        "md5": "e8c781ed5c67d7fe9af389fe33ef7bfe"
     },
     {
         "path": "linux",
@@ -225,6 +225,51 @@
         "md5": "4994202bd4856082e51e8522d8ef87fc"
     },
     {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/splash1-2xl.jpg",
+        "type": "file",
+        "md5": "92b9db9b462d47c99e773399382d3d58"
+    },
+    {
+        "path": "/media/posts/9/responsive/splash1-lg.jpg",
+        "type": "file",
+        "md5": "e3b00ef0bf6b8db87fd591a122856fc9"
+    },
+    {
+        "path": "/media/posts/9/responsive/splash1-md.jpg",
+        "type": "file",
+        "md5": "b906a40a15c920ad1600dcad5acb9cb1"
+    },
+    {
+        "path": "/media/posts/9/responsive/splash1-sm.jpg",
+        "type": "file",
+        "md5": "2daf654c1d9662c206b19fafb50787e9"
+    },
+    {
+        "path": "/media/posts/9/responsive/splash1-xl.jpg",
+        "type": "file",
+        "md5": "3bca6ad036e4f8fde8bcd76dbab266b3"
+    },
+    {
+        "path": "/media/posts/9/responsive/splash1-xs.jpg",
+        "type": "file",
+        "md5": "a60c8eac44946c2e572e9346eca23bda"
+    },
+    {
+        "path": "/media/posts/9/splash1.jpg",
+        "type": "file",
+        "md5": "665b383f1c6f5cbc7f16654ecd742ce4"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -270,6 +315,41 @@
         "md5": "4e4ce37b85c8456cdc3772e1118df0fb"
     },
     {
+        "path": "/media/website/responsive/splash-2-2xl.jpg",
+        "type": "file",
+        "md5": "bdeb55258e553bde7bef3740ba57abfe"
+    },
+    {
+        "path": "/media/website/responsive/splash-2-lg.jpg",
+        "type": "file",
+        "md5": "d8c68a2af9ae8d703b0a7b8d7ac264d7"
+    },
+    {
+        "path": "/media/website/responsive/splash-2-md.jpg",
+        "type": "file",
+        "md5": "11d66b7ccdd875aacc5fa8f58b8a7961"
+    },
+    {
+        "path": "/media/website/responsive/splash-2-sm.jpg",
+        "type": "file",
+        "md5": "af30b3786f99a995ff8db37359296c36"
+    },
+    {
+        "path": "/media/website/responsive/splash-2-xl.jpg",
+        "type": "file",
+        "md5": "a19f60b3c48e90d782643ecef76df411"
+    },
+    {
+        "path": "/media/website/responsive/splash-2-xs.jpg",
+        "type": "file",
+        "md5": "3c084319068c91db95b17f77be08d930"
+    },
+    {
+        "path": "/media/website/splash-2.jpg",
+        "type": "file",
+        "md5": "98811f90cde35fdfa707c66be9ac5dba"
+    },
+    {
         "path": "search.html",
         "type": "file",
         "md5": "b3542e39479038b613bbae7815f42f9c"
@@ -277,7 +357,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "7820cf5478f590350a993113f5c83846"
+        "md5": "ce6822f33a86e7fee4e5fa31d35e3b02"
     },
     {
         "path": "sitemap.xsl",

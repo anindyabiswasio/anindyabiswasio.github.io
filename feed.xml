@@ -19,14 +19,16 @@
             <category term="Linux"/>
             <category term="Cloud Computing"/>
 
-        <updated>2020-07-03T19:58:12+05:30</updated>
+        <updated>2020-07-03T20:26:53+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="http://anindyabiswas.io/media/posts/9/splash1.jpg" alt="" />
                     Story So FarThe company I work for uses AWS as a primary cloud provider. The product that I worked on is a tool that made Mobile applications. Now when we started getting Corporate/Enterprise customers, They started to ask for On-Premises deployment on either a VMWare Environment, Nutanix Enterprise Cloud,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="http://anindyabiswas.io/media/posts/9/splash1.jpg" alt="" />
                 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
@@ -197,7 +199,7 @@
         <id>http://anindyabiswas.io/why-start-a-blog-now.html</id>
             <category term="General Thoughts"/>
 
-        <updated>2020-07-03T19:58:12+05:30</updated>
+        <updated>2020-07-03T20:26:53+05:30</updated>
             <summary>
                 <![CDATA[
                     I used to write when I was a bit younger small poems to girls I used to like or something about what made me feel sad or happy. Over the years the habit of writing somehow went away. It was a job it was something&hellip;
