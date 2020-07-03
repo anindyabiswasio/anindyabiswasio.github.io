@@ -112,12 +112,12 @@
     {
         "path": "/authors/anindya-biswas/index.html",
         "type": "file",
-        "md5": "545b5b32982a35878d7a07394d58f6f6"
+        "md5": "f1691fb718e28a4471c39b3a9bc93207"
     },
     {
         "path": "aws-ubuntu-instance-to-azure-or-vmware-migration.html",
         "type": "file",
-        "md5": "b5aecc371ae2142856d6d164f951de7f"
+        "md5": "6525b16c4c07e138a3ff3e6b611f9a24"
     },
     {
         "path": "cloud-computing",
@@ -127,17 +127,17 @@
     {
         "path": "/cloud-computing/index.html",
         "type": "file",
-        "md5": "d82626502534a2c76cbca7df44cc129b"
+        "md5": "49fe42e4eb285eeba7fe95dbb50a0cb7"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "5eab187443d9849f67bc0b18c59b8748"
+        "md5": "8fba98fe75c53f8e62c6754323d4808e"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "70f2708f005b144f198d9895aacaf34a"
+        "md5": "4c74164409e570d7c94b345a4cf80afa"
     },
     {
         "path": "general-thoughts",
@@ -152,7 +152,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "50da8ec08e09dad91296b618babc41a4"
+        "md5": "ab1edde3c67aa6e1b11e5f1e66546891"
     },
     {
         "path": "linux",
@@ -162,7 +162,7 @@
     {
         "path": "/linux/index.html",
         "type": "file",
-        "md5": "b9161ec6ccadc2a93dcff29d87b6c760"
+        "md5": "42aa01e3d8eb7944aa65279765e35a7d"
     },
     {
         "path": "media",
@@ -277,7 +277,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "1496997a58401b726380dd876471b0a0"
+        "md5": "7820cf5478f590350a993113f5c83846"
     },
     {
         "path": "sitemap.xsl",
