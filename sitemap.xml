@@ -5,6 +5,22 @@
 <loc>http://anindyabiswas.io/</loc>
 </url>
 <url>
+<loc>http://anindyabiswas.io/a-load-balanced-solution-and-horizontal-scaling.html</loc>
+<lastmod>2020-07-04T18:04:20+05:30</lastmod>
+<image:image>
+<image:loc>http://anindyabiswas.io/media\posts\10/splash1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://anindyabiswas.io/media\posts\10/HClientArchitecture.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://anindyabiswas.io/media\posts\10/TClientArchitecture.png</image:loc>
+<image:title><![CDATA[Client Infra design Plan Overview]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>http://anindyabiswas.io/about-me.html</loc>
 <lastmod>2020-07-03T00:01:11+05:30</lastmod>
 <image:image>
@@ -14,7 +30,7 @@
 </url>
 <url>
 <loc>http://anindyabiswas.io/aws-ubuntu-instance-to-azure-or-vmware-migration.html</loc>
-<lastmod>2020-07-03T21:10:26+05:30</lastmod>
+<lastmod>2020-07-04T17:59:15+05:30</lastmod>
 <image:image>
 <image:loc>http://anindyabiswas.io/media\posts\9/splash1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>

@@ -5,6 +5,11 @@
         "md5": "c6b4dbfb4f0c9a7771b8c10195d12732"
     },
     {
+        "path": "a-load-balanced-solution-and-horizontal-scaling.html",
+        "type": "file",
+        "md5": "1e79fa1bf340dcb7a6a351721000fc87"
+    },
+    {
         "path": "about-me.html",
         "type": "file",
         "md5": "d370b3acd1d03c59f16f502ce8964081"
@@ -13,6 +18,11 @@
         "path": "amp",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/amp/a-load-balanced-solution-and-horizontal-scaling.html",
+        "type": "file",
+        "md5": "da9abc7125428815f1a3d31babbca628"
     },
     {
         "path": "/amp/about-me.html",
@@ -32,12 +42,12 @@
     {
         "path": "/amp/authors/anindya-biswas/index.html",
         "type": "file",
-        "md5": "f70babeec7ad31ce97f505725209cc97"
+        "md5": "f31eee17e10231dedde552939ad48f22"
     },
     {
         "path": "/amp/aws-ubuntu-instance-to-azure-or-vmware-migration.html",
         "type": "file",
-        "md5": "68ebbef85d1112c425f674d549e17359"
+        "md5": "6417bbd21a42cb84c574cf1fbc67c4fc"
     },
     {
         "path": "amp/cloud-computing",
@@ -47,7 +57,7 @@
     {
         "path": "/amp/cloud-computing/index.html",
         "type": "file",
-        "md5": "1c9f3cc8e46736bf1bf53000cefaaf95"
+        "md5": "4db81eb43a344c4cad2977934d3fe431"
     },
     {
         "path": "amp/general-thoughts",
@@ -62,7 +72,7 @@
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "d70e7ede2f14502d58cbb66c6e7cc7b4"
+        "md5": "8c1d34f5f8ca66c6055cd2c7eb760bcf"
     },
     {
         "path": "amp/linux",
@@ -72,7 +82,7 @@
     {
         "path": "/amp/linux/index.html",
         "type": "file",
-        "md5": "cfbf766b0ff4116dc9b2691c97cfe762"
+        "md5": "e8b0a2534c3a6ef7e57a0db7c647a695"
     },
     {
         "path": "/amp/why-start-a-blog-now.html",
@@ -182,12 +192,12 @@
     {
         "path": "/authors/anindya-biswas/index.html",
         "type": "file",
-        "md5": "6f724ebfa0cc196d64110976ca9aa1c4"
+        "md5": "3d1e142abc81dd41b1350bdfbcd069bf"
     },
     {
         "path": "aws-ubuntu-instance-to-azure-or-vmware-migration.html",
         "type": "file",
-        "md5": "994353dcb1c1cfbc9073d1a11d5b8ef2"
+        "md5": "8efdf1ceecf6ae83454e59eff8f8d433"
     },
     {
         "path": "cloud-computing",
@@ -197,17 +207,17 @@
     {
         "path": "/cloud-computing/index.html",
         "type": "file",
-        "md5": "a69a1d34e5f4b8a5faa2db68fee68cbf"
+        "md5": "dc0aa7fb5ddd744cd497d1dc68b035af"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "fec640a3bb7b9a1ccebfc8b2648c6964"
+        "md5": "ba6c15cb495619e5c7c870aad065d596"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "aa7096d527581ab501d84d440ee981ec"
+        "md5": "fc55f6a40fb2468a5bfaf0837f6450bd"
     },
     {
         "path": "general-thoughts",
@@ -222,7 +232,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1af67e6fce6cff8dda852142b688e32e"
+        "md5": "9dda50350e2148ea455a444d8a8d6aa8"
     },
     {
         "path": "linux",
@@ -232,7 +242,7 @@
     {
         "path": "/linux/index.html",
         "type": "file",
-        "md5": "760727685a99654329b32204eef709ff"
+        "md5": "5d60bdcdc9b010cd79f7f94bb9b480cc"
     },
     {
         "path": "media",
@@ -248,6 +258,121 @@
         "path": "media/posts",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/HClientArchitecture.png",
+        "type": "file",
+        "md5": "45dfadf7b34d5d9e9fc9e300c0717eeb"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/HClientArchitecture-2xl.png",
+        "type": "file",
+        "md5": "e4907269dd2a197ae64675350deb7a10"
+    },
+    {
+        "path": "/media/posts/10/responsive/HClientArchitecture-lg.png",
+        "type": "file",
+        "md5": "e4907269dd2a197ae64675350deb7a10"
+    },
+    {
+        "path": "/media/posts/10/responsive/HClientArchitecture-md.png",
+        "type": "file",
+        "md5": "16aa79922a156724e0b36e427ae496bc"
+    },
+    {
+        "path": "/media/posts/10/responsive/HClientArchitecture-sm.png",
+        "type": "file",
+        "md5": "a0df1711d085af647b2c3019571cb447"
+    },
+    {
+        "path": "/media/posts/10/responsive/HClientArchitecture-xl.png",
+        "type": "file",
+        "md5": "e4907269dd2a197ae64675350deb7a10"
+    },
+    {
+        "path": "/media/posts/10/responsive/HClientArchitecture-xs.png",
+        "type": "file",
+        "md5": "3afde5ef2276bc3b8b38d8cc7d15ac4b"
+    },
+    {
+        "path": "/media/posts/10/responsive/splash1-2xl.jpg",
+        "type": "file",
+        "md5": "92b9db9b462d47c99e773399382d3d58"
+    },
+    {
+        "path": "/media/posts/10/responsive/splash1-lg.jpg",
+        "type": "file",
+        "md5": "e3b00ef0bf6b8db87fd591a122856fc9"
+    },
+    {
+        "path": "/media/posts/10/responsive/splash1-md.jpg",
+        "type": "file",
+        "md5": "b906a40a15c920ad1600dcad5acb9cb1"
+    },
+    {
+        "path": "/media/posts/10/responsive/splash1-sm.jpg",
+        "type": "file",
+        "md5": "2daf654c1d9662c206b19fafb50787e9"
+    },
+    {
+        "path": "/media/posts/10/responsive/splash1-xl.jpg",
+        "type": "file",
+        "md5": "3bca6ad036e4f8fde8bcd76dbab266b3"
+    },
+    {
+        "path": "/media/posts/10/responsive/splash1-xs.jpg",
+        "type": "file",
+        "md5": "a60c8eac44946c2e572e9346eca23bda"
+    },
+    {
+        "path": "/media/posts/10/responsive/TClientArchitecture-2xl.png",
+        "type": "file",
+        "md5": "ab97a63ebaef5d337b853fea1be4aa78"
+    },
+    {
+        "path": "/media/posts/10/responsive/TClientArchitecture-lg.png",
+        "type": "file",
+        "md5": "ab97a63ebaef5d337b853fea1be4aa78"
+    },
+    {
+        "path": "/media/posts/10/responsive/TClientArchitecture-md.png",
+        "type": "file",
+        "md5": "16aa79922a156724e0b36e427ae496bc"
+    },
+    {
+        "path": "/media/posts/10/responsive/TClientArchitecture-sm.png",
+        "type": "file",
+        "md5": "b9e24a68bdb9b2620d71aba53ea155e8"
+    },
+    {
+        "path": "/media/posts/10/responsive/TClientArchitecture-xl.png",
+        "type": "file",
+        "md5": "ab97a63ebaef5d337b853fea1be4aa78"
+    },
+    {
+        "path": "/media/posts/10/responsive/TClientArchitecture-xs.png",
+        "type": "file",
+        "md5": "f78369523aab04040901f525409b5545"
+    },
+    {
+        "path": "/media/posts/10/splash1.jpg",
+        "type": "file",
+        "md5": "665b383f1c6f5cbc7f16654ecd742ce4"
+    },
+    {
+        "path": "/media/posts/10/TClientArchitecture.png",
+        "type": "file",
+        "md5": "187fa232c742cc6cce6253359b11dbdb"
     },
     {
         "path": "media/posts/5",
@@ -472,7 +597,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "80bbbed878b197336312a3fe354252c0"
+        "md5": "de713df01b9c0a39552bdc1774906946"
     },
     {
         "path": "sitemap.xsl",
