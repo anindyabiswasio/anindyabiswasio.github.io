@@ -7,12 +7,12 @@
     {
         "path": "a-load-balanced-solution-and-horizontal-scaling.html",
         "type": "file",
-        "md5": "1e79fa1bf340dcb7a6a351721000fc87"
+        "md5": "87dec8a995c13b170db0c863f13f5e72"
     },
     {
         "path": "about-me.html",
         "type": "file",
-        "md5": "d370b3acd1d03c59f16f502ce8964081"
+        "md5": "548f2393c346d5b01b63773d01e05717"
     },
     {
         "path": "amp",
@@ -22,12 +22,12 @@
     {
         "path": "/amp/a-load-balanced-solution-and-horizontal-scaling.html",
         "type": "file",
-        "md5": "da9abc7125428815f1a3d31babbca628"
+        "md5": "688fbf09d71ea93d9047926c85e25ced"
     },
     {
         "path": "/amp/about-me.html",
         "type": "file",
-        "md5": "26c2312cec2cdaa47617962472e3d4f0"
+        "md5": "fc626817feba806778721a8b10419766"
     },
     {
         "path": "amp/authors",
@@ -42,7 +42,7 @@
     {
         "path": "/amp/authors/anindya-biswas/index.html",
         "type": "file",
-        "md5": "f31eee17e10231dedde552939ad48f22"
+        "md5": "358b947172ca574f6b7ebda889c4bfb2"
     },
     {
         "path": "/amp/aws-ubuntu-instance-to-azure-or-vmware-migration.html",
@@ -57,7 +57,17 @@
     {
         "path": "/amp/cloud-computing/index.html",
         "type": "file",
-        "md5": "4db81eb43a344c4cad2977934d3fe431"
+        "md5": "26b6e77c8a6f1d54d7d5816aeb588b50"
+    },
+    {
+        "path": "amp/design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/design/index.html",
+        "type": "file",
+        "md5": "93bcba5f378eac746d24489078daa8ca"
     },
     {
         "path": "amp/general-thoughts",
@@ -72,7 +82,7 @@
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "8c1d34f5f8ca66c6055cd2c7eb760bcf"
+        "md5": "f41a9c16e07944e0667c9d61be5ec292"
     },
     {
         "path": "amp/linux",
@@ -192,12 +202,12 @@
     {
         "path": "/authors/anindya-biswas/index.html",
         "type": "file",
-        "md5": "3d1e142abc81dd41b1350bdfbcd069bf"
+        "md5": "33e50aa82ffa76105c774f2d9e7492e6"
     },
     {
         "path": "aws-ubuntu-instance-to-azure-or-vmware-migration.html",
         "type": "file",
-        "md5": "8efdf1ceecf6ae83454e59eff8f8d433"
+        "md5": "1049c052f2e82f1ca8347f1b009c4355"
     },
     {
         "path": "cloud-computing",
@@ -207,17 +217,27 @@
     {
         "path": "/cloud-computing/index.html",
         "type": "file",
-        "md5": "dc0aa7fb5ddd744cd497d1dc68b035af"
+        "md5": "50a053a9188bb7617bb24b1eeb84ccff"
+    },
+    {
+        "path": "design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/design/index.html",
+        "type": "file",
+        "md5": "94bee6aa0d5063c10f39c6b30b87fb93"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ba6c15cb495619e5c7c870aad065d596"
+        "md5": "d3f582a8fa1a88bbafca6d743a5f2285"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "fc55f6a40fb2468a5bfaf0837f6450bd"
+        "md5": "9abc80b18684eb7af73aabc139bfb2e8"
     },
     {
         "path": "general-thoughts",
@@ -232,7 +252,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "9dda50350e2148ea455a444d8a8d6aa8"
+        "md5": "889c457aaa8171f635f9693e1a9da2f1"
     },
     {
         "path": "linux",
@@ -380,9 +400,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/5/me.png",
+        "path": "/media/posts/5/anindya.png",
         "type": "file",
-        "md5": "4de8e96e2c042e6995b84545241d3380"
+        "md5": "200565572c574bb65f45912fd1a470fa"
     },
     {
         "path": "media/posts/5/responsive",
@@ -390,34 +410,69 @@
         "md5": false
     },
     {
-        "path": "/media/posts/5/responsive/me-2xl.png",
+        "path": "/media/posts/5/responsive/anindya-2xl.png",
         "type": "file",
-        "md5": "2ef1f812dff995dad748ac4dc474834e"
+        "md5": "abcfa8f553f73ef4811a5175ad9e3528"
     },
     {
-        "path": "/media/posts/5/responsive/me-lg.png",
+        "path": "/media/posts/5/responsive/anindya-lg.png",
         "type": "file",
-        "md5": "2ef1f812dff995dad748ac4dc474834e"
+        "md5": "abcfa8f553f73ef4811a5175ad9e3528"
     },
     {
-        "path": "/media/posts/5/responsive/me-md.png",
+        "path": "/media/posts/5/responsive/anindya-md.png",
         "type": "file",
-        "md5": "2ef1f812dff995dad748ac4dc474834e"
+        "md5": "abcfa8f553f73ef4811a5175ad9e3528"
     },
     {
-        "path": "/media/posts/5/responsive/me-sm.png",
+        "path": "/media/posts/5/responsive/anindya-sm.png",
         "type": "file",
-        "md5": "2ef1f812dff995dad748ac4dc474834e"
+        "md5": "abcfa8f553f73ef4811a5175ad9e3528"
     },
     {
-        "path": "/media/posts/5/responsive/me-xl.png",
+        "path": "/media/posts/5/responsive/anindya-xl.png",
         "type": "file",
-        "md5": "2ef1f812dff995dad748ac4dc474834e"
+        "md5": "abcfa8f553f73ef4811a5175ad9e3528"
     },
     {
-        "path": "/media/posts/5/responsive/me-xs.png",
+        "path": "/media/posts/5/responsive/anindya-xs.png",
         "type": "file",
-        "md5": "4994202bd4856082e51e8522d8ef87fc"
+        "md5": "abcfa8f553f73ef4811a5175ad9e3528"
+    },
+    {
+        "path": "/media/posts/5/responsive/splash0-2xl.jpg",
+        "type": "file",
+        "md5": "7bb495bf6fc9c5ad59cb17b8927676d6"
+    },
+    {
+        "path": "/media/posts/5/responsive/splash0-lg.jpg",
+        "type": "file",
+        "md5": "9083e68df3193b865ec1d6827f5e7adb"
+    },
+    {
+        "path": "/media/posts/5/responsive/splash0-md.jpg",
+        "type": "file",
+        "md5": "20ab2b3d1f9910b1c934315d685cf926"
+    },
+    {
+        "path": "/media/posts/5/responsive/splash0-sm.jpg",
+        "type": "file",
+        "md5": "5dd99e1c53f3da333b25702701017614"
+    },
+    {
+        "path": "/media/posts/5/responsive/splash0-xl.jpg",
+        "type": "file",
+        "md5": "7fa08c99ed012abd7e3011499c1644d5"
+    },
+    {
+        "path": "/media/posts/5/responsive/splash0-xs.jpg",
+        "type": "file",
+        "md5": "79de14f5ebc1ea043ca59c2bc043a170"
+    },
+    {
+        "path": "/media/posts/5/splash0.jpg",
+        "type": "file",
+        "md5": "e07875e6b8624b55689e16d6d2a4a96b"
     },
     {
         "path": "media/posts/6",
@@ -515,6 +570,11 @@
         "md5": false
     },
     {
+        "path": "/media/website/anindya.png",
+        "type": "file",
+        "md5": "200565572c574bb65f45912fd1a470fa"
+    },
+    {
         "path": "/media/website/me.png",
         "type": "file",
         "md5": "4de8e96e2c042e6995b84545241d3380"
@@ -523,6 +583,36 @@
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/website/responsive/anindya-2xl.png",
+        "type": "file",
+        "md5": "abcfa8f553f73ef4811a5175ad9e3528"
+    },
+    {
+        "path": "/media/website/responsive/anindya-lg.png",
+        "type": "file",
+        "md5": "abcfa8f553f73ef4811a5175ad9e3528"
+    },
+    {
+        "path": "/media/website/responsive/anindya-md.png",
+        "type": "file",
+        "md5": "abcfa8f553f73ef4811a5175ad9e3528"
+    },
+    {
+        "path": "/media/website/responsive/anindya-sm.png",
+        "type": "file",
+        "md5": "abcfa8f553f73ef4811a5175ad9e3528"
+    },
+    {
+        "path": "/media/website/responsive/anindya-xl.png",
+        "type": "file",
+        "md5": "abcfa8f553f73ef4811a5175ad9e3528"
+    },
+    {
+        "path": "/media/website/responsive/anindya-xs.png",
+        "type": "file",
+        "md5": "abcfa8f553f73ef4811a5175ad9e3528"
     },
     {
         "path": "/media/website/responsive/me-2xl.png",
@@ -597,7 +687,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "de713df01b9c0a39552bdc1774906946"
+        "md5": "c1192dbbd152100c1fe257fff3509f71"
     },
     {
         "path": "sitemap.xsl",
