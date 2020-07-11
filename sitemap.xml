@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://anindyabiswas.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://anindyabiswasio.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://anindyabiswas.io/</loc>
+<loc>https://anindyabiswasio.github.io/</loc>
 </url>
 <url>
-<loc>http://anindyabiswas.io/a-load-balanced-solution-and-horizontal-scaling.html</loc>
-<lastmod>2020-07-05T14:14:12+05:30</lastmod>
+<loc>https://anindyabiswasio.github.io/a-load-balanced-solution-and-horizontal-scaling.html</loc>
+<lastmod>2020-07-11T20:28:33+05:30</lastmod>
 <image:image>
-<image:loc>http://anindyabiswas.io/media\posts\10/splash1.jpg</image:loc>
+<image:loc>https://anindyabiswasio.github.io/media\posts\10/splash1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://anindyabiswas.io/media\posts\10/HClientArchitecture.png</image:loc>
+<image:loc>https://anindyabiswasio.github.io/media\posts\10/HClientArchitecture.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://anindyabiswas.io/media\posts\10/TClientArchitecture.png</image:loc>
+<image:loc>https://anindyabiswasio.github.io/media\posts\10/TClientArchitecture.png</image:loc>
 <image:title><![CDATA[Client Infra design Plan Overview]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://anindyabiswas.io/about-me.html</loc>
+<loc>https://anindyabiswasio.github.io/about-me.html</loc>
 <lastmod>2020-07-05T17:11:54+05:30</lastmod>
 <image:image>
-<image:loc>http://anindyabiswas.io/media\posts\5/splash0.jpg</image:loc>
+<image:loc>https://anindyabiswasio.github.io/media\posts\5/splash0.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://anindyabiswas.io/media\posts\5/anindya.png</image:loc>
+<image:loc>https://anindyabiswasio.github.io/media\posts\5/anindya.png</image:loc>
 <image:title><![CDATA[My Self Image. Must Change in future.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://anindyabiswas.io/aws-ubuntu-instance-to-azure-or-vmware-migration.html</loc>
-<lastmod>2020-07-04T17:59:15+05:30</lastmod>
+<loc>https://anindyabiswasio.github.io/aws-ubuntu-instance-to-azure-or-vmware-migration.html</loc>
+<lastmod>2020-07-07T13:22:50+05:30</lastmod>
 <image:image>
-<image:loc>http://anindyabiswas.io/media\posts\9/splash1.jpg</image:loc>
+<image:loc>https://anindyabiswasio.github.io/media\posts\9/splash1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://anindyabiswas.io/why-start-a-blog-now.html</loc>
+<loc>https://anindyabiswasio.github.io/why-start-a-blog-now.html</loc>
 <lastmod>2020-07-03T21:20:15+05:30</lastmod>
 <image:image>
-<image:loc>http://anindyabiswas.io/media\posts\6/splash0.jpg</image:loc>
+<image:loc>https://anindyabiswasio.github.io/media\posts\6/splash0.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

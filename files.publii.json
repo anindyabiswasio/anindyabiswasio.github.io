@@ -2,17 +2,17 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "c6b4dbfb4f0c9a7771b8c10195d12732"
+        "md5": "bc758e6c81270d3d1772c410b836438d"
     },
     {
         "path": "a-load-balanced-solution-and-horizontal-scaling.html",
         "type": "file",
-        "md5": "87dec8a995c13b170db0c863f13f5e72"
+        "md5": "d42fd63b124d6a0d98a467ede1716bb9"
     },
     {
         "path": "about-me.html",
         "type": "file",
-        "md5": "548f2393c346d5b01b63773d01e05717"
+        "md5": "a823fe11d163531dc1f5ce22ef847d2d"
     },
     {
         "path": "amp",
@@ -22,12 +22,12 @@
     {
         "path": "/amp/a-load-balanced-solution-and-horizontal-scaling.html",
         "type": "file",
-        "md5": "688fbf09d71ea93d9047926c85e25ced"
+        "md5": "ab3156d4e63acac42e433f2766374cf3"
     },
     {
         "path": "/amp/about-me.html",
         "type": "file",
-        "md5": "fc626817feba806778721a8b10419766"
+        "md5": "26b35b643b71ff72ab2e89fa8b5108b5"
     },
     {
         "path": "amp/authors",
@@ -42,12 +42,12 @@
     {
         "path": "/amp/authors/anindya-biswas/index.html",
         "type": "file",
-        "md5": "358b947172ca574f6b7ebda889c4bfb2"
+        "md5": "231bce9dd62999d89971284739990dc1"
     },
     {
         "path": "/amp/aws-ubuntu-instance-to-azure-or-vmware-migration.html",
         "type": "file",
-        "md5": "6417bbd21a42cb84c574cf1fbc67c4fc"
+        "md5": "653bcaf1e44a19421f0ef75b96a4ce75"
     },
     {
         "path": "amp/cloud-computing",
@@ -57,7 +57,7 @@
     {
         "path": "/amp/cloud-computing/index.html",
         "type": "file",
-        "md5": "26b6e77c8a6f1d54d7d5816aeb588b50"
+        "md5": "c73708140f9b2a58f867f3077fc78f89"
     },
     {
         "path": "amp/design",
@@ -67,7 +67,7 @@
     {
         "path": "/amp/design/index.html",
         "type": "file",
-        "md5": "93bcba5f378eac746d24489078daa8ca"
+        "md5": "fa57786e70ffbacca64801ca387a5fd7"
     },
     {
         "path": "amp/general-thoughts",
@@ -77,12 +77,12 @@
     {
         "path": "/amp/general-thoughts/index.html",
         "type": "file",
-        "md5": "bd91cbb3e022f24e856b1aa7c8ec4130"
+        "md5": "562a8a7867d1d3b6a9fcf493bc404b8e"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "f41a9c16e07944e0667c9d61be5ec292"
+        "md5": "ffce95b6fd5316f770f53903ba6dc792"
     },
     {
         "path": "amp/linux",
@@ -92,12 +92,12 @@
     {
         "path": "/amp/linux/index.html",
         "type": "file",
-        "md5": "e8b0a2534c3a6ef7e57a0db7c647a695"
+        "md5": "6d2b51434f34a1e9946a3a88e89587b1"
     },
     {
         "path": "/amp/why-start-a-blog-now.html",
         "type": "file",
-        "md5": "844228cef9c93588e69c575eecd6c307"
+        "md5": "7d47a15be3b65be7f542cad7372907da"
     },
     {
         "path": "assets",
@@ -127,7 +127,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "c1bb9176630f4d2e8815ac4648df263b"
+        "md5": "252fb1b5380b19ed63d9bab3d2c67758"
     },
     {
         "path": "assets/js",
@@ -202,12 +202,12 @@
     {
         "path": "/authors/anindya-biswas/index.html",
         "type": "file",
-        "md5": "33e50aa82ffa76105c774f2d9e7492e6"
+        "md5": "582cacbb9a3f0483b150ed89fc94ad7f"
     },
     {
         "path": "aws-ubuntu-instance-to-azure-or-vmware-migration.html",
         "type": "file",
-        "md5": "1049c052f2e82f1ca8347f1b009c4355"
+        "md5": "cc5be8cdd91657d0431fff342d71fc2b"
     },
     {
         "path": "cloud-computing",
@@ -217,7 +217,7 @@
     {
         "path": "/cloud-computing/index.html",
         "type": "file",
-        "md5": "50a053a9188bb7617bb24b1eeb84ccff"
+        "md5": "7bdaf7fb422c7105d5ef08a283e15264"
     },
     {
         "path": "design",
@@ -227,17 +227,17 @@
     {
         "path": "/design/index.html",
         "type": "file",
-        "md5": "94bee6aa0d5063c10f39c6b30b87fb93"
+        "md5": "528c91aff6d289b285219dd6d5c89313"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "d3f582a8fa1a88bbafca6d743a5f2285"
+        "md5": "df2b43bb02f969f01f699b327c72d93a"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "9abc80b18684eb7af73aabc139bfb2e8"
+        "md5": "2bc08c7f4fc5f5b7950022a14b9a2b40"
     },
     {
         "path": "general-thoughts",
@@ -247,12 +247,12 @@
     {
         "path": "/general-thoughts/index.html",
         "type": "file",
-        "md5": "69bc98d214defb4c068c54f1aa7b231b"
+        "md5": "53ae9a96fbe1aa4676ce520a479ef282"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "889c457aaa8171f635f9693e1a9da2f1"
+        "md5": "3662c1c09ae9cfccd915ea4917e6be74"
     },
     {
         "path": "linux",
@@ -262,7 +262,7 @@
     {
         "path": "/linux/index.html",
         "type": "file",
-        "md5": "5d60bdcdc9b010cd79f7f94bb9b480cc"
+        "md5": "781d9b12655b8c94989e32eddffb4142"
     },
     {
         "path": "media",
@@ -575,9 +575,9 @@
         "md5": "200565572c574bb65f45912fd1a470fa"
     },
     {
-        "path": "/media/website/me.png",
+        "path": "/media/website/favicon-16x16.png",
         "type": "file",
-        "md5": "4de8e96e2c042e6995b84545241d3380"
+        "md5": "3fb65e8691113de05dca973496d20316"
     },
     {
         "path": "media/website/responsive",
@@ -615,79 +615,79 @@
         "md5": "abcfa8f553f73ef4811a5175ad9e3528"
     },
     {
-        "path": "/media/website/responsive/me-2xl.png",
+        "path": "/media/website/responsive/favicon-16x16-2xl.png",
         "type": "file",
-        "md5": "2ef1f812dff995dad748ac4dc474834e"
+        "md5": "aefa6760a25e2946fdb215eb2e15055f"
     },
     {
-        "path": "/media/website/responsive/me-lg.png",
+        "path": "/media/website/responsive/favicon-16x16-lg.png",
         "type": "file",
-        "md5": "2ef1f812dff995dad748ac4dc474834e"
+        "md5": "aefa6760a25e2946fdb215eb2e15055f"
     },
     {
-        "path": "/media/website/responsive/me-md.png",
+        "path": "/media/website/responsive/favicon-16x16-md.png",
         "type": "file",
-        "md5": "2ef1f812dff995dad748ac4dc474834e"
+        "md5": "aefa6760a25e2946fdb215eb2e15055f"
     },
     {
-        "path": "/media/website/responsive/me-sm.png",
+        "path": "/media/website/responsive/favicon-16x16-sm.png",
         "type": "file",
-        "md5": "2ef1f812dff995dad748ac4dc474834e"
+        "md5": "aefa6760a25e2946fdb215eb2e15055f"
     },
     {
-        "path": "/media/website/responsive/me-xl.png",
+        "path": "/media/website/responsive/favicon-16x16-xl.png",
         "type": "file",
-        "md5": "2ef1f812dff995dad748ac4dc474834e"
+        "md5": "aefa6760a25e2946fdb215eb2e15055f"
     },
     {
-        "path": "/media/website/responsive/me-xs.png",
+        "path": "/media/website/responsive/favicon-16x16-xs.png",
         "type": "file",
-        "md5": "4e4ce37b85c8456cdc3772e1118df0fb"
+        "md5": "aefa6760a25e2946fdb215eb2e15055f"
     },
     {
-        "path": "/media/website/responsive/splash-2-2xl.jpg",
+        "path": "/media/website/responsive/splashdefault-2xl.jpg",
         "type": "file",
-        "md5": "bdeb55258e553bde7bef3740ba57abfe"
+        "md5": "25dc9c79540852faa776dcc6034455a3"
     },
     {
-        "path": "/media/website/responsive/splash-2-lg.jpg",
+        "path": "/media/website/responsive/splashdefault-lg.jpg",
         "type": "file",
-        "md5": "d8c68a2af9ae8d703b0a7b8d7ac264d7"
+        "md5": "91f16e4f81822959ecc423354c50cefd"
     },
     {
-        "path": "/media/website/responsive/splash-2-md.jpg",
+        "path": "/media/website/responsive/splashdefault-md.jpg",
         "type": "file",
-        "md5": "11d66b7ccdd875aacc5fa8f58b8a7961"
+        "md5": "814343da0e74e3df4edd6eb5865e12cb"
     },
     {
-        "path": "/media/website/responsive/splash-2-sm.jpg",
+        "path": "/media/website/responsive/splashdefault-sm.jpg",
         "type": "file",
-        "md5": "af30b3786f99a995ff8db37359296c36"
+        "md5": "94b2683884d9d59cc84a8fa386a8e5f7"
     },
     {
-        "path": "/media/website/responsive/splash-2-xl.jpg",
+        "path": "/media/website/responsive/splashdefault-xl.jpg",
         "type": "file",
-        "md5": "a19f60b3c48e90d782643ecef76df411"
+        "md5": "0bfd6484ddc408a41fa54650c7ac5303"
     },
     {
-        "path": "/media/website/responsive/splash-2-xs.jpg",
+        "path": "/media/website/responsive/splashdefault-xs.jpg",
         "type": "file",
-        "md5": "3c084319068c91db95b17f77be08d930"
+        "md5": "ca4b7a966a20964fd54b8ddce2ae0ea9"
     },
     {
-        "path": "/media/website/splash-2.jpg",
+        "path": "/media/website/splashdefault.jpg",
         "type": "file",
-        "md5": "98811f90cde35fdfa707c66be9ac5dba"
+        "md5": "2f456e9ac1dc8db1d44635b752bd82b9"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "e2912e799d9fb636ed7dc7ee421cf7de"
+        "md5": "1bbc19ab21d1031d96f9f3f24db6e20b"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "c1192dbbd152100c1fe257fff3509f71"
+        "md5": "ed7545241967603280cf09e5d1784052"
     },
     {
         "path": "sitemap.xsl",
@@ -695,8 +695,23 @@
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
     },
     {
+        "path": "splash0.jpg",
+        "type": "file",
+        "md5": "e07875e6b8624b55689e16d6d2a4a96b"
+    },
+    {
+        "path": "splash1.jpg",
+        "type": "file",
+        "md5": "665b383f1c6f5cbc7f16654ecd742ce4"
+    },
+    {
+        "path": "splashdefault.jpg",
+        "type": "file",
+        "md5": "2f456e9ac1dc8db1d44635b752bd82b9"
+    },
+    {
         "path": "why-start-a-blog-now.html",
         "type": "file",
-        "md5": "184aa4a090cca311bb9838dae78dbfd7"
+        "md5": "97d917c79307477114741aa2a1fb8b6c"
     }
 ]
