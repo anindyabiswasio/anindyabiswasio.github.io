@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>anindyabiswas.io</title>
-    <link href="https://anindyabiswasio.github.io/feed.xml" rel="self" />
-    <link href="https://anindyabiswasio.github.io" />
+    <link href="http://anindyabiswas.io/feed.xml" rel="self" />
+    <link href="http://anindyabiswas.io" />
     <updated>1970-01-01T05:30:00+05:30</updated>
     <author>
         <name>Anindya Biswas</name>
     </author>
-    <id>https://anindyabiswasio.github.io</id>
+    <id>http://anindyabiswas.io</id>
 
     <entry>
         <title>Raspberry Pi 4 Development Desktop Project</title>
         <author>
             <name>Anindya Biswas</name>
         </author>
-        <link href="https://anindyabiswasio.github.io/raspberry-pi-4-desktop-project.html"/>
-        <id>https://anindyabiswasio.github.io/raspberry-pi-4-desktop-project.html</id>
+        <link href="http://anindyabiswas.io/raspberry-pi-4-desktop-project.html"/>
+        <id>http://anindyabiswas.io/raspberry-pi-4-desktop-project.html</id>
             <category term="Raspberry Pi"/>
             <category term="Programming"/>
             <category term="Linux"/>
 
-        <updated>2020-08-12T23:17:24+05:30</updated>
+        <updated>2020-08-12T23:21:28+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anindyabiswasio.github.io/media/posts/12/splashraspberry.jpg" alt="" />
+                        <img src="http://anindyabiswas.io/media/posts/12/splashraspberry.jpg" alt="" />
                     Story So Far, Raspberry Pi Foundation, released an 8 GB RAM model of it's Raspberry Pi 4 this year along with USB booting. This thing got me thinking, can I build a developer system running some IDE that can run Spring boot applications on Java on&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://anindyabiswasio.github.io/media/posts/12/splashraspberry.jpg" alt="" />
+                    <img src="http://anindyabiswas.io/media/posts/12/splashraspberry.jpg" alt="" />
                 <h2><span data-preserver-spaces="true">Story So Far, </span></h2>
 <p><span data-preserver-spaces="true">Raspberry Pi Foundation, released an 8 GB RAM model of it's Raspberry Pi 4 this year along with USB booting. This thing got me thinking, can I build a developer system running some IDE that can run Spring boot applications on Java on a Docker container on Raspberry Pi 4. Can I make it my alternative backup development system out of it?</span></p>
 <p><span data-preserver-spaces="true">We used to have a lecturer in University named Carl Reed, and in one of his classes, he told a story about why and how he bought the mobile phone. He had hearing problems so, he needed a loud phone. He couldn't see very well, so he needed something with </span><strong><span data-preserver-spaces="true">"clear large readable"</span></strong><span data-preserver-spaces="true"> text. Long story short, know whats your need, what's your requirement. Enough of this chit chat. </span><span data-preserver-spaces="true">Let me try Karl Reed method for this project.</span></p>
@@ -87,16 +87,16 @@
 <p><span data-preserver-spaces="true">Raspberry Pi is a single-board computer and does not need much setting up. However, since I was planning on overclocking my Pi, I needed a cooling solution. As on the bare machine, I would see CPU throttling issues as things heated up. Raspberry Pi 4 starts throttling around 80°C. </span></p>
 <p> </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/Raspberry_Pi_4_Hero.jpg" data-size="3200x1729"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/Raspberry_Pi_4_Hero-thumbnail.jpg" alt="" width="720" height="389"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Raspberry_Pi_4_Hero.jpg" data-size="3200x1729"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Raspberry_Pi_4_Hero-thumbnail.jpg" alt="" width="720" height="389"></a>
 <figcaption>My Raspberry Pi 4 8 GB.</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/Argon-One-Raspberry-Pi-4-Case-md.png" data-size="768x533"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/Argon-One-Raspberry-Pi-4-Case-md-thumbnail.png" alt="" width="720" height="500"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Argon-One-Raspberry-Pi-4-Case-md.png" data-size="768x533"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Argon-One-Raspberry-Pi-4-Case-md-thumbnail.png" alt="" width="720" height="500"></a>
 <figcaption>Home of my Raspberry Pi 4</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/StockSSDImage.jpg" data-size="1024x780"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/StockSSDImage-thumbnail.jpg" alt="" width="720" height="548"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/StockSSDImage.jpg" data-size="1024x780"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/StockSSDImage-thumbnail.jpg" alt="" width="720" height="548"></a>
 <figcaption>Stock Image of My SSD. Sorry I don't have a blog level professional Camera. So Stock Image it is.</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/USBSSDAdapter.jpg" data-size="1500x1500"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/USBSSDAdapter-thumbnail.jpg" alt="" width="720" height="720"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/USBSSDAdapter.jpg" data-size="1500x1500"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/USBSSDAdapter-thumbnail.jpg" alt="" width="720" height="720"></a>
 <figcaption>USB 3.0 Sata Adapter. This connects the Raspberry Pi to the SSD.</figcaption>
 </figure>
 </div></div>
@@ -141,28 +141,28 @@
 </ol>
 <p>I used Raspberry Pi Imager on my Windows Laptop.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="8">
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture1.PNG" data-size="682x452"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture1-thumbnail.PNG" alt="" width="682" height="452"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Capture1.PNG" data-size="682x452"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Capture1-thumbnail.PNG" alt="" width="682" height="452"></a>
 <figcaption>Start Raspberry Pi Imager and Choose OS -&gt; Custom</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture2.PNG" data-size="649x440"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture2-thumbnail.PNG" alt="" width="649" height="440"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Capture2.PNG" data-size="649x440"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Capture2-thumbnail.PNG" alt="" width="649" height="440"></a>
 <figcaption>Select OS Image file</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture3.PNG" data-size="682x452"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture3-thumbnail.PNG" alt="" width="682" height="452"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Capture3.PNG" data-size="682x452"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Capture3-thumbnail.PNG" alt="" width="682" height="452"></a>
 <figcaption>Choose Connected USB SSD Drive.</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture4.PNG" data-size="682x452"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture4-thumbnail.PNG" alt="" width="682" height="452"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Capture4.PNG" data-size="682x452"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Capture4-thumbnail.PNG" alt="" width="682" height="452"></a>
 <figcaption>Click on "Write" to write Image</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture5.PNG" data-size="682x452"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture5-thumbnail.PNG" alt="" width="682" height="452"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Capture5.PNG" data-size="682x452"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Capture5-thumbnail.PNG" alt="" width="682" height="452"></a>
 <figcaption>Usual I will delete you data warning. Be confidant and say yes. :P</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture6.PNG" data-size="682x452"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture6-thumbnail.PNG" alt="" width="682" height="452"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Capture6.PNG" data-size="682x452"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Capture6-thumbnail.PNG" alt="" width="682" height="452"></a>
 <figcaption>Writing the Data Begins</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture7.PNG" data-size="682x452"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture7-thumbnail.PNG" alt="" width="682" height="452"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Capture7.PNG" data-size="682x452"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Capture7-thumbnail.PNG" alt="" width="682" height="452"></a>
 <figcaption>Checks if the Data Written is OK. This tool has some confidence issues.</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture8.PNG" data-size="682x452"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/Capture8-thumbnail.PNG" alt="" width="682" height="452"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Capture8.PNG" data-size="682x452"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Capture8-thumbnail.PNG" alt="" width="682" height="452"></a>
 <figcaption>All Done. Lets plug her in and boot up the PI.</figcaption>
 </figure>
 </div></div>
@@ -220,7 +220,7 @@
 </ol>
 <h3>Desktop</h3>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/Desktop-2.png" data-size="2560x1440"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/Desktop-2-thumbnail.png" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Desktop-2.png" data-size="2560x1440"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Desktop-2-thumbnail.png" alt="" width="720" height="405"></a>
 <figcaption>Desktop is Ready... Every time I see this color I want to lick my screen. Must be a mental bug.</figcaption>
 </figure>
 </div></div>
@@ -229,20 +229,20 @@
 <p><span data-preserver-spaces="true">Evolution Email Client. Email Client took a few minutes of configuration and I was able to connect to </span><strong><span data-preserver-spaces="true">Amazon Workmail</span></strong><span data-preserver-spaces="true">, SMTP and IMAP servers without any major hassles. Later I tried Gmail and that worked perfectly as well.</span></p>
 <p><span data-preserver-spaces="true">As for Chromium, it behaves just like all chromium installs, however, one problem seems to be 1080p Video playback. Hardware acceleration is missing so I got a lot of dropped frames while watching how to make Chicken Marsala (Covid Effect :P ). 649 out of 2402 frames were dropped in Stats for nerds in YouTube. Maybe Hardware acceleration will fix this issue in the long run. Later I found there is a bug which was causing this so maybe by the time anyone reads this issue should be fixed.</span></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/EmailClient.png" data-size="2560x1405"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/EmailClient-thumbnail.png" alt="" width="720" height="395"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/EmailClient.png" data-size="2560x1405"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/EmailClient-thumbnail.png" alt="" width="720" height="395"></a>
 <figcaption>Evolution Email Client. A lot like Outlook but free and loads fast on Raspberry Pi 4</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/Screenshot-from-2020-08-10-16-03-37.png" data-size="2560x1440"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/Screenshot-from-2020-08-10-16-03-37-thumbnail.png" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Screenshot-from-2020-08-10-16-03-37.png" data-size="2560x1440"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Screenshot-from-2020-08-10-16-03-37-thumbnail.png" alt="" width="720" height="405"></a>
 <figcaption>Youtube Video with dropped frames. I wish this was better. 649 out of 2402 frames dropped :P. Maybe Hardware acceleration will fix this issue.</figcaption>
 </figure>
 </div></div>
 <h3><span data-preserver-spaces="true">An Office Alternate</span></h3>
 <p><span data-preserver-spaces="true">I installed LibreOffice as an Office suite. I wanted to get version 7.0 but repository had 6.x version and that was fine I guess. It does everything alright. Maybe not as good looking like Microsoft's version of Office Suite but does the job.</span></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/Screenshot-from-2020-08-10-16-07-22.png" data-size="2560x1405"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/Screenshot-from-2020-08-10-16-07-22-thumbnail.png" alt="" width="720" height="395"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Screenshot-from-2020-08-10-16-07-22.png" data-size="2560x1405"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Screenshot-from-2020-08-10-16-07-22-thumbnail.png" alt="" width="720" height="395"></a>
 <figcaption>Visio Drawings Open at least. Though not as intuitive as Visio. But gets the job done.</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/OfficeTools.png" data-size="453x486"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/OfficeTools-thumbnail.png" alt="" width="453" height="486"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/OfficeTools.png" data-size="453x486"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/OfficeTools-thumbnail.png" alt="" width="453" height="486"></a>
 <figcaption>Office tools with Libra office.</figcaption>
 </figure>
 </div></div>
@@ -258,38 +258,38 @@
 </tbody>
 </table>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/FirstLaunchVSCode.png" data-size="2560x1440"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/FirstLaunchVSCode-thumbnail.png" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/FirstLaunchVSCode.png" data-size="2560x1440"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/FirstLaunchVSCode-thumbnail.png" alt="" width="720" height="405"></a>
 <figcaption>First Launch Visual Studio Code</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/InstallSpringInitializer.png" data-size="2560x1440"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/InstallSpringInitializer-thumbnail.png" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/InstallSpringInitializer.png" data-size="2560x1440"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/InstallSpringInitializer-thumbnail.png" alt="" width="720" height="405"></a>
 <figcaption>Install Spring Initializer</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/InstallJavaExpansionPack.png" data-size="2560x1405"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/InstallJavaExpansionPack-thumbnail.png" alt="" width="720" height="395"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/InstallJavaExpansionPack.png" data-size="2560x1405"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/InstallJavaExpansionPack-thumbnail.png" alt="" width="720" height="395"></a>
 <figcaption>Install Java Addon</figcaption>
 </figure>
 </div></div>
 <h5>Create Project and Run</h5>
 <p>(Ctrl+Shift+P) and type Spring Initializr to start generating a Maven project and then follow the wizard.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="7">
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/1CreateProject.png" data-size="2560x1440"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/1CreateProject-thumbnail.png" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/1CreateProject.png" data-size="2560x1440"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/1CreateProject-thumbnail.png" alt="" width="720" height="405"></a>
 <figcaption>Create Project (Ctrl+Shift+P)</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/2SpecifyLanguage.png" data-size="2560x1440"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/2SpecifyLanguage-thumbnail.png" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/2SpecifyLanguage.png" data-size="2560x1440"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/2SpecifyLanguage-thumbnail.png" alt="" width="720" height="405"></a>
 <figcaption>Specify Language</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/3SpecifyPackageName.png" data-size="2560x1440"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/3SpecifyPackageName-thumbnail.png" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/3SpecifyPackageName.png" data-size="2560x1440"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/3SpecifyPackageName-thumbnail.png" alt="" width="720" height="405"></a>
 <figcaption>Specify Package Name</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/4SpringBootVersion.png" data-size="2560x1440"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/4SpringBootVersion-thumbnail.png" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/4SpringBootVersion.png" data-size="2560x1440"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/4SpringBootVersion-thumbnail.png" alt="" width="720" height="405"></a>
 <figcaption>Select Spring Boot Version</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/5DependencySelection.png" data-size="2560x1440"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/5DependencySelection-thumbnail.png" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/5DependencySelection.png" data-size="2560x1440"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/5DependencySelection-thumbnail.png" alt="" width="720" height="405"></a>
 <figcaption>Dependency Selection</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/6RunWithoutDebug.png" data-size="2560x1440"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/6RunWithoutDebug-thumbnail.png" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/6RunWithoutDebug.png" data-size="2560x1440"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/6RunWithoutDebug-thumbnail.png" alt="" width="720" height="405"></a>
 <figcaption>Run without Debug</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anindyabiswasio.github.io/media/posts/12/gallery/7RunWithDebug.png" data-size="2560x1440"><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/12/gallery/7RunWithDebug-thumbnail.png" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/7RunWithDebug.png" data-size="2560x1440"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/7RunWithDebug-thumbnail.png" alt="" width="720" height="405"></a>
 <figcaption>Run With Debug and Break Point</figcaption>
 </figure>
 </div></div>
@@ -318,25 +318,25 @@
         <author>
             <name>Anindya Biswas</name>
         </author>
-        <link href="https://anindyabiswasio.github.io/a-load-balanced-solution-and-horizontal-scaling.html"/>
-        <id>https://anindyabiswasio.github.io/a-load-balanced-solution-and-horizontal-scaling.html</id>
+        <link href="http://anindyabiswas.io/a-load-balanced-solution-and-horizontal-scaling.html"/>
+        <id>http://anindyabiswas.io/a-load-balanced-solution-and-horizontal-scaling.html</id>
             <category term="Design"/>
             <category term="Cloud Computing"/>
 
-        <updated>2020-08-12T23:17:24+05:30</updated>
+        <updated>2020-08-12T23:21:28+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anindyabiswasio.github.io/media/posts/10/splash1.jpg" alt="" />
+                        <img src="http://anindyabiswas.io/media/posts/10/splash1.jpg" alt="" />
                     Story So Far, We had a client for who we made an end-user mobile application that we had build and build the backend systems with usual connectors to connect to their backend APIs which then connected to SAP backends. Seems to be a usual gig where&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://anindyabiswasio.github.io/media/posts/10/splash1.jpg" alt="" />
+                    <img src="http://anindyabiswas.io/media/posts/10/splash1.jpg" alt="" />
                 <h4><strong><span data-preserver-spaces="true">Story So Far, </span></strong></h4>
 <p><span data-preserver-spaces="true">We had a client for who we made an end-user mobile application that we had build and build the backend systems with usual connectors to connect to their backend APIs which then connected to SAP backends.</span></p>
 <p><span data-preserver-spaces="true">Seems to be a usual gig where the mobile application would first talk to our server which had it's own MongoDB and PostgresDB and have some bridging APIs to connect to Client APIs. When the field testing started, however, something interesting happened. Suddenly we saw a spike in the server loads on our AWS T1.small servers were let's say from a lack of a better word went "</span><strong><em><span data-preserver-spaces="true">Belly up</span></em></strong><span data-preserver-spaces="true">". As it turns out, their marketing team had announced the application to 30k users, and it was a disaster. We went from T1.Small Instances to T1.XXLarge Instances and boy it was complete mayhem. Long story condensed we failed, Scaling-Up does not help. They did have the application running for a while and then they got rid of it. Total humiliation and somehow I felt responsible for this failure.</span></p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/10/HClientArchitecture.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anindyabiswasio.github.io/media/posts/10/responsive/HClientArchitecture-xs.png 300w ,https://anindyabiswasio.github.io/media/posts/10/responsive/HClientArchitecture-sm.png 480w ,https://anindyabiswasio.github.io/media/posts/10/responsive/HClientArchitecture-md.png 768w ,https://anindyabiswasio.github.io/media/posts/10/responsive/HClientArchitecture-lg.png 1024w ,https://anindyabiswasio.github.io/media/posts/10/responsive/HClientArchitecture-xl.png 1360w ,https://anindyabiswasio.github.io/media/posts/10/responsive/HClientArchitecture-2xl.png 1600w"  alt="">
+<figure class="post__image post__image--center" ><img loading="lazy" src="http://anindyabiswas.io/media/posts/10/HClientArchitecture.png" sizes="(max-width: 48em) 100vw, 768px" srcset="http://anindyabiswas.io/media/posts/10/responsive/HClientArchitecture-xs.png 300w ,http://anindyabiswas.io/media/posts/10/responsive/HClientArchitecture-sm.png 480w ,http://anindyabiswas.io/media/posts/10/responsive/HClientArchitecture-md.png 768w ,http://anindyabiswas.io/media/posts/10/responsive/HClientArchitecture-lg.png 1024w ,http://anindyabiswas.io/media/posts/10/responsive/HClientArchitecture-xl.png 1360w ,http://anindyabiswas.io/media/posts/10/responsive/HClientArchitecture-2xl.png 1600w"  alt="">
 <figcaption >The recipe for disaster</figcaption>
 </figure>
 <blockquote>
@@ -357,7 +357,7 @@
 <p><span data-preserver-spaces="true">We got another client last year the same scale as before this app was again an End User application Expected load of 10k users to begin with, till they can roll-out countrywide when they expect around 50k+ users for both Mobile and Web Application. Their prerequisite was they want to run it in Azure in the data center of the country of operation. And maybe in the future move all systems in-house or a VMWare or something called Nutanix Enterprise Cloud. </span></p>
 <p><span data-preserver-spaces="true">Also, they wanted to migrate their MongoDB to PostgresqlDB, as manpower for the later is easier to find. </span></p>
 <p><span data-preserver-spaces="true">With the prerequisites set we designed the following simplistically put.</span></p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://anindyabiswasio.github.io/media/posts/10/TClientArchitecture.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anindyabiswasio.github.io/media/posts/10/responsive/TClientArchitecture-xs.png 300w ,https://anindyabiswasio.github.io/media/posts/10/responsive/TClientArchitecture-sm.png 480w ,https://anindyabiswasio.github.io/media/posts/10/responsive/TClientArchitecture-md.png 768w ,https://anindyabiswasio.github.io/media/posts/10/responsive/TClientArchitecture-lg.png 1024w ,https://anindyabiswasio.github.io/media/posts/10/responsive/TClientArchitecture-xl.png 1360w ,https://anindyabiswasio.github.io/media/posts/10/responsive/TClientArchitecture-2xl.png 1600w"  alt="Client Infra design Plan Overview">
+<figure class="post__image post__image--center" ><img loading="lazy" src="http://anindyabiswas.io/media/posts/10/TClientArchitecture.png" sizes="(max-width: 48em) 100vw, 768px" srcset="http://anindyabiswas.io/media/posts/10/responsive/TClientArchitecture-xs.png 300w ,http://anindyabiswas.io/media/posts/10/responsive/TClientArchitecture-sm.png 480w ,http://anindyabiswas.io/media/posts/10/responsive/TClientArchitecture-md.png 768w ,http://anindyabiswas.io/media/posts/10/responsive/TClientArchitecture-lg.png 1024w ,http://anindyabiswas.io/media/posts/10/responsive/TClientArchitecture-xl.png 1360w ,http://anindyabiswas.io/media/posts/10/responsive/TClientArchitecture-2xl.png 1600w"  alt="Client Infra design Plan Overview">
 <figcaption >Clients Server Architecture Design Simplified</figcaption>
 </figure>
 <div>Instead of loading and clogging one Instance we have 2, to begin with, and scale up to 5 instances. Load balancer rules were set on trying to connect on port 443 (https). In the future, if the load continues to grow we may just horizontally scale the infrastructure.</div>
@@ -373,21 +373,21 @@
         <author>
             <name>Anindya Biswas</name>
         </author>
-        <link href="https://anindyabiswasio.github.io/aws-ubuntu-instance-to-azure-or-vmware-migration.html"/>
-        <id>https://anindyabiswasio.github.io/aws-ubuntu-instance-to-azure-or-vmware-migration.html</id>
+        <link href="http://anindyabiswas.io/aws-ubuntu-instance-to-azure-or-vmware-migration.html"/>
+        <id>http://anindyabiswas.io/aws-ubuntu-instance-to-azure-or-vmware-migration.html</id>
             <category term="Linux"/>
             <category term="Cloud Computing"/>
 
-        <updated>2020-08-12T23:17:24+05:30</updated>
+        <updated>2020-08-12T23:21:28+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anindyabiswasio.github.io/media/posts/9/splash1.jpg" alt="" />
+                        <img src="http://anindyabiswas.io/media/posts/9/splash1.jpg" alt="" />
                     Story So Far, The company I work for uses AWS as a primary cloud provider. The product that I worked on is a tool that made Mobile applications. Now when we started getting Corporate/Enterprise customers, They started to ask for On-Premises deployment on either a VMWare Environment, Nutanix Enterprise Cloud,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://anindyabiswasio.github.io/media/posts/9/splash1.jpg" alt="" />
+                    <img src="http://anindyabiswas.io/media/posts/9/splash1.jpg" alt="" />
                 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
@@ -572,20 +572,20 @@
         <author>
             <name>Anindya Biswas</name>
         </author>
-        <link href="https://anindyabiswasio.github.io/why-start-a-blog-now.html"/>
-        <id>https://anindyabiswasio.github.io/why-start-a-blog-now.html</id>
+        <link href="http://anindyabiswas.io/why-start-a-blog-now.html"/>
+        <id>http://anindyabiswas.io/why-start-a-blog-now.html</id>
             <category term="General Thoughts"/>
 
-        <updated>2020-08-12T23:17:24+05:30</updated>
+        <updated>2020-08-12T23:21:28+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anindyabiswasio.github.io/media/posts/6/splash0.jpg" alt="" />
+                        <img src="http://anindyabiswas.io/media/posts/6/splash0.jpg" alt="" />
                     Hi, I am Anindya. And I am starting a blog. Why you may ask. Well, I thought since I quit all social media, I might as well write things I care about and not care about likes and who reads it or who does not.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://anindyabiswasio.github.io/media/posts/6/splash0.jpg" alt="" />
+                    <img src="http://anindyabiswas.io/media/posts/6/splash0.jpg" alt="" />
                 <div class="" data-block="true" data-editor="9nbpd" data-offset-key="6kb6e-0-0">
 <div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="6kb6e-0-0">
 <p><span data-preserver-spaces="true">Hi, I am Anindya. And I am starting a blog. Why you may ask. Well, I thought since I quit all social media, I might as well write things I care about and not care about likes and who reads it or who does not.</span></p>
