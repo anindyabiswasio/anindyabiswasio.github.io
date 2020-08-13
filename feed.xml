@@ -20,7 +20,7 @@
             <category term="Programming"/>
             <category term="Linux"/>
 
-        <updated>2020-08-12T23:21:28+05:30</updated>
+        <updated>2020-08-13T11:36:19+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="http://anindyabiswas.io/media/posts/12/splashraspberry.jpg" alt="" />
@@ -201,9 +201,9 @@
 </tbody>
 </table>
 <h4>Test Scores Before Overclocking</h4>
-<p> </p>
+<p>----------------------------------------------------------------------------<br>AndBench Started...<br>----------------------------------------------------------------------------<br>CPU Score : 50<br>Write Speed Score : 39<br>Read Speed Score : 41</p>
 <h4>Test Scored After Overclocking</h4>
-<p> </p>
+<p>----------------------------------------------------------------------------<br>AndBench Started...<br>----------------------------------------------------------------------------<br>CPU Score : 35<br>Write Speed Score : 29<br>Read Speed Score : 27</p>
 <h4><span data-preserver-spaces="true">Testing Method </span></h4>
 <p><span data-preserver-spaces="true">Andbench is a set of C code I copied from all over the internet.</span></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -238,9 +238,12 @@
 </div></div>
 <h3><span data-preserver-spaces="true">An Office Alternate</span></h3>
 <p><span data-preserver-spaces="true">I installed LibreOffice as an Office suite. I wanted to get version 7.0 but repository had 6.x version and that was fine I guess. It does everything alright. Maybe not as good looking like Microsoft's version of Office Suite but does the job.</span></p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Screenshot-from-2020-08-10-16-07-22.png" data-size="2560x1405"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Screenshot-from-2020-08-10-16-07-22-thumbnail.png" alt="" width="720" height="395"></a>
 <figcaption>Visio Drawings Open at least. Though not as intuitive as Visio. But gets the job done.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/Excel.png" data-size="1330x1118"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/Excel-thumbnail.png" alt="" width="720" height="605"></a>
+<figcaption>Opens up my AWS Planning sheet perfectly.</figcaption>
 </figure>
 <figure class="gallery__item"><a href="http://anindyabiswas.io/media/posts/12/gallery/OfficeTools.png" data-size="453x486"><img loading="lazy" src="http://anindyabiswas.io/media/posts/12/gallery/OfficeTools-thumbnail.png" alt="" width="453" height="486"></a>
 <figcaption>Office tools with Libra office.</figcaption>
@@ -308,7 +311,6 @@
 <ol>
 <li><span data-preserver-spaces="true"><a href="https://www.raspberrypi.org/documentation/configuration/config-txt/overclocking.md">https://www.raspberrypi.org/documentation/configuration/config-txt/overclocking.md</a><a target="_blank" href="https://www.raspberrypi.org/documentation/configuration/config-txt/overclocking.md" class="_e75a791d-denali-editor-page-rtfLink" rel="noopener"></a></span></li>
 <li><a href="https://www.tomshardware.com/how-to/boot-raspberry-pi-4-usb">https://www.tomshardware.com/how-to/boot-raspberry-pi-4-usb</a></li>
-<li> </li>
 </ol>
             ]]>
         </content>
@@ -323,7 +325,7 @@
             <category term="Design"/>
             <category term="Cloud Computing"/>
 
-        <updated>2020-08-12T23:21:28+05:30</updated>
+        <updated>2020-08-13T11:36:19+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="http://anindyabiswas.io/media/posts/10/splash1.jpg" alt="" />
@@ -378,7 +380,7 @@
             <category term="Linux"/>
             <category term="Cloud Computing"/>
 
-        <updated>2020-08-12T23:21:28+05:30</updated>
+        <updated>2020-08-13T11:36:19+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="http://anindyabiswas.io/media/posts/9/splash1.jpg" alt="" />
@@ -576,7 +578,7 @@
         <id>http://anindyabiswas.io/why-start-a-blog-now.html</id>
             <category term="General Thoughts"/>
 
-        <updated>2020-08-12T23:21:28+05:30</updated>
+        <updated>2020-08-13T11:36:19+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="http://anindyabiswas.io/media/posts/6/splash0.jpg" alt="" />
